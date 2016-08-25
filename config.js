@@ -7,7 +7,7 @@ GH.ID = 'ODUzMjY1YjA5YjBjMjVlOTg2MTQ='
 // Github Owner's
 GH.OWNER = 'lilianricaud'
 // Github crew's repository
-GH.CREW = 'PatternResearch'
+GH.CREW = 'organisations'
 
 var MULTIBAO = {}
 MULTIBAO.UVP1 = 'An encyclopedia of shareable patterns, pattern languages and sequences for generative design.'
