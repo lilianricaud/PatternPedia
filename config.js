@@ -10,7 +10,7 @@ GH.OWNER = 'lilian'
 GH.CREW = 'PatternResearch'
 
 var MULTIBAO = {}
-MULTIBAO.UVP1 = 'Shareable encyclopedia of patterns, pattern languages and sequences for generative design.'
-MULTIBAO.UVP2 = 'Open research on building living generative systems' 
+MULTIBAO.UVP1 = 'An encyclopedia of shareable patterns, pattern languages and sequences for generative design.'
+MULTIBAO.UVP2 = '' 
 MULTIBAO.BUTTON1 = 'Pattern Languages'
 MULTIBAO.BUTTON2 = 'Pattern Research'
