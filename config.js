@@ -12,5 +12,5 @@ GH.CREW = 'organisations'
 var MULTIBAO = {}
 MULTIBAO.UVP1 = 'An encyclopedia of shareable patterns, pattern languages and sequences for generative design.'
 MULTIBAO.UVP2 = '' 
-MULTIBAO.BUTTON1 = 'Pattern Languages'
-MULTIBAO.BUTTON2 = 'Pattern Research'
+MULTIBAO.BUTTON1 = 'Commencer ici'
+MULTIBAO.BUTTON2 = 'Guide d\'utilisation'
