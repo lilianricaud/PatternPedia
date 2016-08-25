@@ -6,7 +6,7 @@
         <div class="home-intro-content container">
           <h2>${MULTIBAO.UVP1}<span>${MULTIBAO.UVP2}</span></h2>
           <a href="#multibao/contributions/blob/master/pages/commencer_ici.md">${MULTIBAO.BUTTON1}</a>
-          <a href="#multibao/documentation/blob/master/README.md">${MULTIBAO.BUTTON2}</a>
+          <a href="#lilianricaud/open-social-innovation/blob/master/what-is-open-social-innovation.md">${MULTIBAO.BUTTON2}</a>
         </div>
     </section>
     <section id="gh-crew-list" class="container">
